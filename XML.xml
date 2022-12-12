@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <list>
+     <person ID="8912">
+       <name> Borys </name>
+	   <city> London </city>
+	   <adress> Downing street 345 </adress>
+	   <contactNumber> +787915678 </contactNumber>
+	   <skype> borisjonsonykuk </skype>
+	   <email> borisjonsonykuk@gmail.com </email>
+	</person>	
+     <person ID="8913">
+       <name> Alex </name>
+	   <city> Paris </city>
+	   <adress> Sharl de Gole st 381/1 </adress>
+	   <contactNumber> +987990128 </contactNumber>
+	   <skype> Alex_harper </skype>
+	   <email> alex99913@gmail.com </email>
+	</person>
+	<person ID="8914">
+       <name> Garry </name>
+	   <city> Monaco </city>
+	   <adress> Twinky 181 </adress>
+	   <contactNumber> +7872145678 </contactNumber>
+	   <skype> prince_garry45 </skype>
+	   <email> prince_garry@outlook.com </email>
+	</person>
+	<person ID="8915">
+       <name> Jennifer el Nacho </name>
+	   <city> Mexico </city>
+	   <adress> el mundo st 142/89 flat 134 </adress>
+	   <contactNumber> +890781456 </contactNumber>
+	   <skype> nacho_kitty </skype>
+	   <email> kitty9966@yahoo.com </email>
+	</person>
+	</list>
+</root>

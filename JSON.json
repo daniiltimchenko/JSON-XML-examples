@@ -1,0 +1,38 @@
+[
+{
+	"ID":"138699"
+    "name":"Boris" 
+	"city":"London"
+	"adress":"Downing street 345"
+	"contact number":"+787915678"
+	"skype":"borisjonsonykuk"
+	"email":"borisjonsonykuk@gmail.com"
+ }
+ {
+	"ID":"138700"
+    "name":"Alex" 
+	"city":"Paris"
+	"adress":"Sharl de Gole st 381/1"
+	"contact number":"+987990128"
+	"skype":"Alex_harper"
+	"email":"alex99913@gmail.com"
+ }
+ {
+	"ID":"138701"
+    "name":"Garry" 
+	"city":"Monaco"
+	"adress":"Twinky 181"
+	"contact number":"+7872145678"
+	"skype":"prince_garry45"
+	"email":"prince_garry@outlook.com"
+ }
+ {  
+    "ID":"138702"
+    "name":"Jennifer el Nacho" 
+	"city":"Mexico"
+	"adress":"el mundo st 142/89 flat 134"
+	"contact number":"+890781456"
+	"skype":"nacho_kitty"
+	"email":"kitty9966@yahoo.com"
+ }
+]
